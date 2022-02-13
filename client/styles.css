@@ -1,0 +1,22 @@
+
+.options {
+    display: flexbox;
+    flex-direction: row;
+    margin: 0;
+}
+
+#deleteitem {
+    margin: 0 0 20px 10px;
+}
+
+.list {
+    width: 500px;
+    float: left;
+    height: 100px; 
+}
+
+.completedList {
+    width: 500px;
+    float: left;
+    height: 100px;
+}
